@@ -23,6 +23,9 @@
     "email": "mail@adamhalasz.com",
     "url": "http://adamhalasz.com/"
   },
+  "dependencies": {
+    "isset": "1.0.3"
+  },
   "main": "index.js",
   "engines": {
     "node": ">=0.8.21"
